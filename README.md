@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 💻
 
-## Bem-vindo(a) ao meu perfil  😁
-
  <div>
    <a href="https://github.com/Henrsilva12">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrsilva12&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
